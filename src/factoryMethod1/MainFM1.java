@@ -1,5 +1,10 @@
 package factoryMethod1;
 
+/*
+ * Factory Method 1: Móvel
+ * - Fábrica de 3 tipos de móveis, ficando aberta à adição de outros tipos
+ */
+
 public class MainFM1 {
 	public static void main(String[] args) {
 		

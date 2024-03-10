@@ -1,5 +1,11 @@
 package factoryMethod2;
 
+/*
+ * Factory Method 2: Obra Literária
+ * - Fábrica de 3 tipos de obra literária, ficando aberta à adição de outros tipos
+ * 
+ */
+
 public class MainFM2 {
 	public static void main(String[] args) {
 		
